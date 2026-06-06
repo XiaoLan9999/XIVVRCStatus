@@ -1,0 +1,12 @@
+{
+  "Author": "XIVVRCStatus Contributors",
+  "Name": "XIV VRC Status",
+  "Punchline": "Display your FFXIV status in the VRChat OSC chatbox.",
+  "Description": "Sends a configurable FFXIV character status message to the VRChat OSC chatbox. Use /xivvrc to configure it.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "vrchat",
+    "osc",
+    "chatbox"
+  ]
+}
